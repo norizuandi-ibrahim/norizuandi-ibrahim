@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Norizuandi Ibrahim]
 
-<!--
-**norizuandi-ibrahim/norizuandi-ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[A Computer Science lecturer at UiTM interested in software engineering and AI.]
 
-Here are some ideas to get you started:
+## About me
+- Studying: [Computer Sciences], UiTM
+- Currently learning: [Special topic in Computer Science]
+- My FYP area: [Computer Networking and Security]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+[Python, Git, SQL, Networking & Security Tool]
+
+## Projects
+- [Big Data Analysis in Intrusion Detection System, IDS](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [www.linkedin.com/in/
+norizuandi-ibrahim-7a8b2a33a
+]
+- Email: [norizuan84@gmail.com]
