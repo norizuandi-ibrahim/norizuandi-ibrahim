@@ -11,7 +11,7 @@ A Computer Science lecturer at UiTM interested in software engineering and AI.
 Python, Git, SQL, Networking & Security Tool
 
 ## Projects
-- Big Data Analysis in Intrusion Detection System, IDS](link-to-your-repository): one sentence about it
+- AI-Powered Student Academic Risk Prediction and Support System(link-to-your-repository): one sentence about it
 
 ## Contact
 - LinkedIn: [www.linkedin.com/in/
